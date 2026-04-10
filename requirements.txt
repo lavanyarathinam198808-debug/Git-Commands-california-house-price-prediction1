@@ -8,5 +8,6 @@ uvicorn
 fastapi
 
 # MLOps
-
+dvc
+dvc_s3
 
